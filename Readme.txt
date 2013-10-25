@@ -1,0 +1,1 @@
+After adding the "prerendered-icon" and "detect-data-types" preferences, the splash screen reverted to the phone-gap default
